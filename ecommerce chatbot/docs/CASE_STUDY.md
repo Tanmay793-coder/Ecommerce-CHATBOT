@@ -1,6 +1,3 @@
-Here's a complete `CASESTUDY.md` file with code snippets and technical documentation for your internship project:
-
-```markdown
 # E-commerce Sales Chatbot - Case Study
 
 ## Project Overview
@@ -177,11 +174,3 @@ This case study document includes:
 4. Installation instructions
 5. Future improvement ideas
 6. Technical justifications
-
-The markdown format makes it easy to:
-- Present during your internship review
-- Include in your portfolio
-- Share with potential employers
-- Use as project documentation
-
-Would you like me to add any specific metrics or more detailed explanations for any section? I can also include screenshots if you have UI mockups.
